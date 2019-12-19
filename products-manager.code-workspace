@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "frontend"
+    },
+    {
+      "name": "api",
+      "path": "api"
+    }
+  ],
+  "settings": {
+    "debug.internalConsoleOptions": "neverOpen",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": false
+  }
+}
